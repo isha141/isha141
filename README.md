@@ -1,3 +1,0 @@
-- 👋 Hi I'm Isha Jindal
-- ✨ I am Programmer
-- 📫 How to reach me: ishajindal999@gmail.com
