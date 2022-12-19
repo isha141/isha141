@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isha Jindal</h1>
-<h3 align="center">I am Passionate Software Developer</h3>
+<h3 align="center">I am currently a Pre-Final year student at Dept. of Computer Science and Technology, Graphic Era University . I am interested in competitve coding , web and app development</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isha141" alt="isha141" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ishajindal99" target="blank"><img src="https://img.shields.io/twitter/follow/ishajindal99?logo=twitter&style=for-the-badge" alt="ishajindal99" /></a> </p>
