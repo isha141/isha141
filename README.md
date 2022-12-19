@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isha Jindal</h1>
-<h3 align="center">I am Passionate Developer</h3>
+<h3 align="center">I am currently a Pre-Final year student at Dept. of Computer Science and Technology, Graphic Era University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isha141" alt="isha141" /></a> </p>
 
