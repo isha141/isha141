@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **ishajindal999@gmail.com**
-- 😀 I am interested in **competitve coding** , **Web and App development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
