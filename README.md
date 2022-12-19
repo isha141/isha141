@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isha Jindal</h1>
 <h3 align="center">I am currently a Pre-Final year student at Dept. of Computer Science and Technology, Graphic Era University . I am interested in competitve coding , web and app development</h3>
-<img align='right' src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width='200"'>
+<img align='right' src=["https://giphy.com/embed/qgQUggAC3Pfv687qPC"](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ir9kk6so7w9uk13e7ko3d9u537kfqmdergv15xde&rid=giphy.gif&ct=g) width='200"'>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isha141" alt="isha141" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ishajindal99" target="blank"><img src="https://img.shields.io/twitter/follow/ishajindal99?logo=twitter&style=for-the-badge" alt="ishajindal99" /></a> </p>
