@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isha Jindal</h1>
-<h3 align="center">I am currently a Pre-Final year student at Dept. of Computer Science and Technology, Graphic Era University.
-<img align="right" alt="Cding" width="200" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h3 align="center">I am Passionate Developer</h3>
+img align="right" alt="Cding" width="400" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isha141" alt="isha141" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ishajindal99" target="blank"><img src="https://img.shields.io/twitter/follow/ishajindal99?logo=twitter&style=for-the-badge" alt="ishajindal99" /></a> </p>
